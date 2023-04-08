@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/line-clone/static/css/main.f09efbc8.css",
+    "main.js": "/line-clone/static/js/main.ac626c8a.js",
+    "index.html": "/line-clone/index.html",
+    "main.f09efbc8.css.map": "/line-clone/static/css/main.f09efbc8.css.map",
+    "main.ac626c8a.js.map": "/line-clone/static/js/main.ac626c8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09efbc8.css",
+    "static/js/main.ac626c8a.js"
+  ]
+}
